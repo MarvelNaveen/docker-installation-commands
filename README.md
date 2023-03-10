@@ -5,7 +5,7 @@ https://docs.aws.amazon.com/AmazonECS/latest/developerguide/create-container-ima
 
 
 #**Connect EC2 instance in AWS**
-Create a security group that can allow all IP to all ports. Create inbound and outbound both.
+#Create a security group that can allow all IP to all ports. Create inbound and outbound both.
                                              
 
 

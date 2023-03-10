@@ -5,11 +5,7 @@ https://docs.aws.amazon.com/AmazonECS/latest/developerguide/create-container-ima
 
 
 #**Connect EC2 instance in AWS**
-#   1. Create a security group that can allow all IP to all ports. 
-#   2. Create inbound and outbound both.
-#   3. Launch an EC2 instance with AWS Linux 2 and create key pair in ppk format .
-#   4. We are going to use Putty and Super putty to connect our instances. 
-#   5. You can use any SSH client to connect.
+Create a security group that can allow all IP to all ports. Create inbound and outbound both.
                                              
 
 

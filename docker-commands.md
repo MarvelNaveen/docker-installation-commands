@@ -54,7 +54,10 @@ docker run -d -p [host-port]:[container-port] [image-name]:[version]
 ```
 docker run -d --name [name-you-wish] [image-name]:[version]
 ```
-* To login the container shell. To come out use CTRL+d or exit
+* To login the container shell.
 ```
 docker exc -it [container-id] bash
+```
+```
+* To come out use CTRL+d or exit
 ```

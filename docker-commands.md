@@ -2,7 +2,7 @@
 
 Container is the running version of image. You can consider container as mini server. It too have 0-65,535 ports.
 
-* To display the available images
+* To display the available images.
 ```
 docker images
 ```
@@ -10,7 +10,7 @@ docker images
 ```
 docker pull [image-name]:[version]
 ```
-* To create container out of image
+* To create container out of image.
 ```
 docker create [image-id]
 ```
@@ -34,7 +34,7 @@ docker run [image-name]:[version]
 ```
 docker run -d [image-name]:[version]
 ```
-* To stop the running container
+* To stop the running container.
 ```
 docker stop [container-ID]
 ```
@@ -46,7 +46,7 @@ docker rm [container-ID]
 ```
 docker rmi [image-ID]
 ```
-* To assign a port to the container
+* To assign a port to the container.
 ```
 docker run -d -p [host-port]:[container-port] [image-name]:[version]
 ```

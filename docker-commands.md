@@ -22,7 +22,7 @@ docker ps
 ```
 docker ps -a
 ```
-* To start the container
+* To start the container.
 ```
 docker start [container-ID]
 ```
@@ -38,7 +38,7 @@ docker run -d [image-name]:[version]
 ```
 docker stop [container-ID]
 ```
-* To remove the container. If it is running container use -f to force
+* To remove the container. If it is running container use -f to force.
 ```
 docker rm [container-ID]
 ```

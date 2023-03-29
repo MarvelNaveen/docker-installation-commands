@@ -18,7 +18,7 @@ https://docs.aws.amazon.com/AmazonECS/latest/developerguide/create-container-ima
 
 ### Install Docker in AWS Linux 2
 
-* Update OS packages
+* Update OS packages.
 ```
 sudo yum update -y
 ```
@@ -28,7 +28,7 @@ sudo yum update -y
 sudo amazon-linux-extras install docker
 ```
 
-* Start Docker
+* Start Docker.
 
 ```
 sudo service docker start

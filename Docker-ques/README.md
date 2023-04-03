@@ -13,6 +13,7 @@ Ans: Docker is a popular choice for software development and deployment.
 3. Consistency : Docker containers ensure that the same software enviroment is used across diffrent system, which helps  to avoid the “it works on my machine” problem.
 4. Efficiency : Which helps to improve the application perfornance and reduce infrastructure costs.
 5. Flexibility : Docker supports wide range of programming languages.
+#
 
 3. what is docker image ?
 

@@ -26,4 +26,4 @@ ans: Docker containers are the running version of the docker images.
 
 ans: Dockerfile is text file that contains instructions for building an Docker image. It provides a simple repeatable way to creating a Docker image that includes all dependencies.
 
-#
+##

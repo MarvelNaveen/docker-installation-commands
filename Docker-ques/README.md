@@ -27,3 +27,9 @@ ans: Docker containers are the running version of the docker images.
 
 *ans: Dockerfile is a declaritive way of creating own images . Docker will give some syntax to create our own images.
 *Dockerfile is text file that contains instructions for building an Docker image. It provides a simple repeatable way to creating a Docker image that includes all dependencies.
+
+### 6. How to create our own images ?
+
+```
+By using Dockerfile we will create our own images . Dockerfile is a declaritive way of creating our own images . Docker will give some synatax.
+```

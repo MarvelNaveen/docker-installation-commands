@@ -31,5 +31,12 @@ ans: Docker containers are the running version of the docker images.
 ### 6. How to create our own images ?
 
 ```
-By using Dockerfile we will create our own images . Dockerfile is a declaritive way of creating our own images . Docker will give some synatax.
+ans: By using Dockerfile we will create our own images . Dockerfile is a declaritive way of creating our own images . Docker will give some synatax.
 ```
+### 7. How to delete all containers at a time ?
+
+```
+Ans: To delete all containers at a time by two steps 1st check containers id's using command 
+### docker ps -a -q 
+This command shows all the ruuning container id's then next to delete all the running containers by using command
+### docker rm -f `docker ps -a -q`

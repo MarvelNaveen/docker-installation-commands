@@ -26,4 +26,4 @@ ans: Docker containers are the running version of the docker images.
 5. what is Dockerfile?
 
 *ans: Dockerfile is a declaritive way of creating own images . Docker will give some syntax to create our own images.
-Dockerfile is text file that contains instructions for building an Docker image. It provides a simple repeatable way to creating a Docker image that includes all dependencies.
+*Dockerfile is text file that contains instructions for building an Docker image. It provides a simple repeatable way to creating a Docker image that includes all dependencies.

@@ -13,7 +13,7 @@ Ans: Docker is a popular choice for software development and deployment.
 3. Consistency : Docker containers ensure that the same software enviroment is used across diffrent system, which helps  to avoid the “it works on my machine” problem.
 4. Efficiency : Which helps to improve the application perfornance and reduce infrastructure costs.
 5. Flexibility : Docker supports wide range of programming languages.
-#
+
 
 3. what is docker image ?
 
@@ -25,6 +25,5 @@ ans: Docker containers are the running version of the docker images.
 
 5. what is Dockerfile?
 
-ans: Dockerfile is text file that contains instructions for building an Docker image. It provides a simple repeatable way to creating a Docker image that includes all dependencies.
-
-##
+*ans: Dockerfile is a declaritive way of creating own images . Docker will give some syntax to create our own images.
+Dockerfile is text file that contains instructions for building an Docker image. It provides a simple repeatable way to creating a Docker image that includes all dependencies.
